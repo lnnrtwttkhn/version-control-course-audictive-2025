@@ -1,191 +1,187 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/schedule.html</loc>
-    <lastmod>2025-07-06T18:28:53.564Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/schedule.html</loc>
+    <lastmod>2025-07-08T19:47:06.767Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/resources.html</loc>
-    <lastmod>2025-07-06T18:28:53.564Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/resources.html</loc>
+    <lastmod>2025-07-08T19:47:06.767Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/references.html</loc>
-    <lastmod>2025-06-11T17:27:52.234Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/mechanics.html</loc>
+    <lastmod>2025-07-08T19:47:06.764Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-git-remotes.html</loc>
-    <lastmod>2025-07-06T18:28:53.569Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-collaboration.html</loc>
+    <lastmod>2025-07-08T19:47:06.774Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-git-collaboration.html</loc>
-    <lastmod>2025-07-06T18:28:53.569Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-branches.html</loc>
+    <lastmod>2025-07-08T19:47:06.772Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-git-basics.html</loc>
-    <lastmod>2025-07-06T18:28:53.568Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-datalad.html</loc>
+    <lastmod>2025-07-08T19:47:06.771Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-git-branches.html</loc>
-    <lastmod>2025-07-06T18:28:53.571Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-basics.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/recipes/recipes-cli.html</loc>
-    <lastmod>2025-07-06T18:28:53.568Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-branches.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-branches.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-cli.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-github-advanced.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-tags-releases.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-github-intro.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-git-basics.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-lunch.html</loc>
-    <lastmod>2025-07-06T18:28:53.570Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-basics.html</loc>
+    <lastmod>2025-07-08T19:47:06.774Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-cli.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-github-intro.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-setup.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-basics.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-github-advanced.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-branches.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-essentials.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/index.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-introduction.html</loc>
-    <lastmod>2025-07-06T18:28:53.570Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-setup.html</loc>
+    <lastmod>2025-07-08T19:47:06.773Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-command-line.html</loc>
-    <lastmod>2025-07-06T18:28:53.570Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-outlook.html</loc>
+    <lastmod>2025-07-08T19:47:06.773Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-git-setup.html</loc>
-    <lastmod>2025-07-06T18:28:53.572Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-outlook.html</loc>
+    <lastmod>2025-07-08T19:47:06.776Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-command-line.html</loc>
-    <lastmod>2025-07-06T18:28:53.568Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/tasks/tasks-template.html</loc>
+    <lastmod>2025-07-08T19:47:06.776Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/tasks/tasks-intro.html</loc>
-    <lastmod>2025-07-06T18:28:53.573Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-introduction.html</loc>
+    <lastmod>2025-07-08T19:47:06.775Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-git-remotes.html</loc>
-    <lastmod>2025-07-06T18:28:53.572Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/about.html</loc>
+    <lastmod>2025-07-08T19:47:06.762Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/index.html</loc>
-    <lastmod>2025-07-06T18:28:53.561Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/acknowledgements.html</loc>
+    <lastmod>2025-07-08T19:47:06.763Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/zi-git.html</loc>
-    <lastmod>2025-07-06T18:28:53.573Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/zi-git.html</loc>
+    <lastmod>2025-07-08T19:47:06.776Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/acknowledgements.html</loc>
-    <lastmod>2025-07-06T18:28:53.560Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/index.html</loc>
+    <lastmod>2025-07-08T19:47:06.764Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/about.html</loc>
-    <lastmod>2025-07-06T18:28:53.560Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-remotes.html</loc>
+    <lastmod>2025-07-08T19:47:06.775Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-introduction.html</loc>
-    <lastmod>2025-07-06T18:28:53.572Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/tasks/tasks-outlook.html</loc>
+    <lastmod>2025-07-08T19:47:06.776Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/tasks/tasks-template.html</loc>
-    <lastmod>2025-07-06T18:28:53.573Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-command-line.html</loc>
+    <lastmod>2025-07-08T19:47:06.771Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-outlook.html</loc>
-    <lastmod>2025-07-06T18:28:53.573Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-setup.html</loc>
+    <lastmod>2025-07-08T19:47:06.775Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-outlook.html</loc>
-    <lastmod>2025-07-06T18:28:53.570Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-command-line.html</loc>
+    <lastmod>2025-07-08T19:47:06.773Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-git-setup.html</loc>
-    <lastmod>2025-07-06T18:28:53.569Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-introduction.html</loc>
+    <lastmod>2025-07-08T19:47:06.773Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/index.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-essentials.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-branches.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-github-advanced.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-basics.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-setup.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/project/project-github-intro.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/project/project-cli.html</loc>
+    <lastmod>2025-07-08T19:47:06.770Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-git-basics.html</loc>
-    <lastmod>2025-07-06T18:28:53.571Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-lunch.html</loc>
+    <lastmod>2025-07-08T19:47:06.773Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-git-basics.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-github-intro.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-tags-releases.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-github-advanced.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/exercises/exercise-cli.html</loc>
-    <lastmod>2025-07-06T18:28:53.566Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/exercises/exercise-branches.html</loc>
+    <lastmod>2025-07-08T19:47:06.769Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/recipes/recipes-branches.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/recipes/recipes-cli.html</loc>
+    <lastmod>2025-07-08T19:47:06.771Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/recipes/recipes-basics.html</loc>
-    <lastmod>2025-07-06T18:28:53.567Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/slides-session-git-branches.html</loc>
+    <lastmod>2025-07-08T19:47:06.774Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-datalad.html</loc>
-    <lastmod>2025-07-06T18:28:53.568Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-basics.html</loc>
+    <lastmod>2025-07-08T19:47:06.771Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/session-git-branches.html</loc>
-    <lastmod>2025-07-06T18:28:53.569Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-collaboration.html</loc>
+    <lastmod>2025-07-08T19:47:06.772Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/sessions/slides-session-git-collaboration.html</loc>
-    <lastmod>2025-07-06T18:28:53.571Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/sessions/session-git-remotes.html</loc>
+    <lastmod>2025-07-08T19:47:06.772Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/mechanics.html</loc>
-    <lastmod>2025-07-06T18:28:53.561Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/implementation.html</loc>
+    <lastmod>2025-07-08T19:47:06.764Z</lastmod>
   </url>
   <url>
-    <loc>https://lennartwittkuhn.com/repro-course/implementation.html</loc>
-    <lastmod>2025-07-06T18:28:53.561Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lennartwittkuhn.com/repro-course/code-of-conduct.html</loc>
-    <lastmod>2025-07-06T18:28:53.560Z</lastmod>
+    <loc>https://lennartwittkuhn.com/version-control-course-audictive-2025/code-of-conduct.html</loc>
+    <lastmod>2025-07-08T19:47:06.763Z</lastmod>
   </url>
 </urlset>
